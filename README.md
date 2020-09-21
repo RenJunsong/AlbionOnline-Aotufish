@@ -1,2 +1,2 @@
 # AlbionOnline-Aotufish
-To autofish in the Alion Online
+To autofish in Alion Online
