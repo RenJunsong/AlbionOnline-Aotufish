@@ -1,5 +1,5 @@
 # AlbionOnline-Aotufish
-To autofish in Alion Online
+To autofish in Albion Online
 
 ## usage
 
@@ -8,7 +8,7 @@ To autofish in Alion Online
 ### import
 type
 ```cmd
-pip -r requirements.txt
+pip install -r requirements.txt
 
 ```
 点击Starter.py启动程序
